@@ -1,0 +1,46 @@
+#photography {
+ height:600px;
+ background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin:0;
+  padding:0;
+  background-size: cover;
+}
+
+#ltext{
+  font-size: 220px;
+  margin:0;
+  padding:0;
+  color: white;
+  font-family: 'Righteous';
+}
+#parallax {
+  background-attachment: fixed;
+  background-size: cover;
+}
+#t1 {
+  font-family: 'Montserrat';
+  font-size:30px;
+}
+#t2 {
+  font-size: 100px;
+  font-family: 'Righteous';
+}
+
+#p_det{
+  padding: 50px;
+  background-color:#222;
+  color: white;
+}
+#b1 {
+  background-color:#666666;
+  color: white
+}
+#f1 {
+  font-size:40px;
+  font-family: 'Montserrat';
+}
+#r1 {
+  font-size:25px;
+}
